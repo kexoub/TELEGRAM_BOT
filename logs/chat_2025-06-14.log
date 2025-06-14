@@ -1,0 +1,858 @@
+2025-06-14T10:51:48.110Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T10:51:10.000Z'
+}
+
+2025-06-14T10:51:48.129Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T10:51:12.000Z'
+}
+
+2025-06-14T10:51:48.130Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T10:51:22.000Z'
+}
+
+2025-06-14T10:51:48.686Z - 机器人响应
+{
+  chatId: 6208973523,
+  response: '🌤️ *欢迎使用多功能天气机器人* 🌤️\n' +
+    '\n' +
+    '我可以为您提供以下服务：\n' +
+    '- 实时天气查询\n' +
+    '- 三日天气预报\n' +
+    '- 每日一言语录\n' +
+    '- 随机精美图片\n' +
+    '- 天气预警信息\n' +
+    '\n' +
+    '请使用下方菜单选择功能：',
+  type: 'text',
+  timestamp: '2025-06-14T10:51:48.686Z'
+}
+
+2025-06-14T10:51:49.259Z - 机器人响应
+{
+  chatId: 6208973523,
+  response: '🌤️ *欢迎使用多功能天气机器人* 🌤️\n' +
+    '\n' +
+    '我可以为您提供以下服务：\n' +
+    '- 实时天气查询\n' +
+    '- 三日天气预报\n' +
+    '- 每日一言语录\n' +
+    '- 随机精美图片\n' +
+    '- 天气预警信息\n' +
+    '\n' +
+    '请使用下方菜单选择功能：',
+  type: 'text',
+  timestamp: '2025-06-14T10:51:49.259Z'
+}
+
+2025-06-14T10:51:52.704Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T10:51:53.000Z'
+}
+
+2025-06-14T10:51:53.194Z - 机器人响应
+{
+  chatId: 6208973523,
+  response: '🌤️ *欢迎使用多功能天气机器人* 🌤️\n' +
+    '\n' +
+    '我可以为您提供以下服务：\n' +
+    '- 实时天气查询\n' +
+    '- 三日天气预报\n' +
+    '- 每日一言语录\n' +
+    '- 随机精美图片\n' +
+    '- 天气预警信息\n' +
+    '\n' +
+    '请使用下方菜单选择功能：',
+  type: 'text',
+  timestamp: '2025-06-14T10:51:53.194Z'
+}
+
+2025-06-14T10:51:54.297Z - 机器人响应
+{
+  chatId: 6208973523,
+  response: '🌤️ *欢迎使用多功能天气机器人* 🌤️\n' +
+    '\n' +
+    '我可以为您提供以下服务：\n' +
+    '- 实时天气查询\n' +
+    '- 三日天气预报\n' +
+    '- 每日一言语录\n' +
+    '- 随机精美图片\n' +
+    '- 天气预警信息\n' +
+    '\n' +
+    '请使用下方菜单选择功能：',
+  type: 'text',
+  timestamp: '2025-06-14T10:51:54.297Z'
+}
+
+2025-06-14T10:51:57.734Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T10:51:58.000Z'
+}
+
+2025-06-14T10:51:58.243Z - 机器人响应
+{
+  chatId: 6208973523,
+  response: '🌤️ *欢迎使用多功能天气机器人* 🌤️\n' +
+    '\n' +
+    '我可以为您提供以下服务：\n' +
+    '- 实时天气查询\n' +
+    '- 三日天气预报\n' +
+    '- 每日一言语录\n' +
+    '- 随机精美图片\n' +
+    '- 天气预警信息\n' +
+    '\n' +
+    '请使用下方菜单选择功能：',
+  type: 'text',
+  timestamp: '2025-06-14T10:51:58.243Z'
+}
+
+2025-06-14T10:52:11.009Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '⚙️ 设置',
+  date: '2025-06-14T10:52:11.000Z'
+}
+
+2025-06-14T10:52:11.493Z - 机器人响应
+{
+  chatId: 6208973523,
+  response: '⚙️ 系统设置\n\n1. 温度单位 (°C/°F)\n2. 通知设置\n3. 语言设置',
+  type: 'text',
+  timestamp: '2025-06-14T10:52:11.493Z'
+}
+
+2025-06-14T10:52:13.180Z - 用户回调
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  callbackData: 'main_menu'
+}
+
+2025-06-14T10:52:13.767Z - 机器人响应
+{
+  chatId: 6208973523,
+  response: '请选择功能：',
+  type: 'text',
+  timestamp: '2025-06-14T10:52:13.767Z'
+}
+
+2025-06-14T11:05:40.253Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '',
+  date: '2025-06-14T11:04:21.000Z'
+}
+
+2025-06-14T11:05:40.269Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/start',
+  date: '2025-06-14T11:04:34.000Z'
+}
+
+2025-06-14T11:05:40.271Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T11:04:48.000Z'
+}
+
+2025-06-14T11:05:41.701Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/start',
+  date: '2025-06-14T11:05:40.000Z'
+}
+
+2025-06-14T11:05:49.849Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help@congyus00_bot',
+  date: '2025-06-14T11:05:50.000Z'
+}
+
+2025-06-14T11:05:56.274Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help@congyus00_bot',
+  date: '2025-06-14T11:05:56.000Z'
+}
+
+2025-06-14T11:05:57.706Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help@congyus00_bot',
+  date: '2025-06-14T11:05:58.000Z'
+}
+
+2025-06-14T11:06:03.011Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help',
+  date: '2025-06-14T11:06:03.000Z'
+}
+
+2025-06-14T11:16:55.705Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:16:14.000Z'
+}
+
+2025-06-14T11:17:01.218Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:17:01.000Z'
+}
+
+2025-06-14T11:17:24.987Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:17:25.000Z'
+}
+
+2025-06-14T11:17:30.265Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T11:17:30.000Z'
+}
+
+2025-06-14T11:17:33.552Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:17:33.000Z'
+}
+
+2025-06-14T11:18:42.421Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help',
+  date: '2025-06-14T11:18:42.000Z'
+}
+
+2025-06-14T11:20:34.297Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help',
+  date: '2025-06-14T11:20:34.000Z'
+}
+
+2025-06-14T11:21:05.157Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T11:21:05.000Z'
+}
+
+2025-06-14T11:21:08.066Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:21:08.000Z'
+}
+
+2025-06-14T11:21:09.390Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:21:09.000Z'
+}
+
+2025-06-14T11:27:59.025Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:26:14.000Z'
+}
+
+2025-06-14T11:28:21.146Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:28:21.000Z'
+}
+
+2025-06-14T11:28:27.785Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:28:28.000Z'
+}
+
+2025-06-14T11:28:31.075Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T11:28:30.000Z'
+}
+
+2025-06-14T11:29:12.554Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T11:29:11.000Z'
+}
+
+2025-06-14T11:29:12.558Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:29:12.000Z'
+}
+
+2025-06-14T11:37:06.206Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T11:37:05.000Z'
+}
+
+2025-06-14T11:41:19.392Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help',
+  date: '2025-06-14T11:41:19.000Z'
+}
+
+2025-06-14T11:41:23.234Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help',
+  date: '2025-06-14T11:41:23.000Z'
+}
+
+2025-06-14T11:41:29.705Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/start',
+  date: '2025-06-14T11:41:30.000Z'
+}
+
+2025-06-14T11:41:32.352Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/help@congyus00_bot',
+  date: '2025-06-14T11:41:32.000Z'
+}
+
+2025-06-14T11:41:44.281Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/start@null',
+  date: '2025-06-14T11:41:44.000Z'
+}
+
+2025-06-14T11:46:58.256Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '',
+  date: '2025-06-14T11:46:58.000Z'
+}
+
+2025-06-14T11:49:10.161Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '',
+  date: '2025-06-14T11:49:10.000Z'
+}
+
+2025-06-14T11:53:11.654Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '',
+  date: '2025-06-14T11:53:11.000Z'
+}
+
+2025-06-14T11:53:25.755Z - 用户消息
+{
+  userId: 7813629915,
+  username: 'congyus00_bot',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '',
+  date: '2025-06-14T11:53:24.000Z'
+}
+
+2025-06-14T11:53:33.434Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '🌤️ 实时天气',
+  date: '2025-06-14T11:53:33.000Z'
+}
+
+2025-06-14T11:53:36.841Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '🌤️ 实时天气',
+  date: '2025-06-14T11:53:37.000Z'
+}
+
+2025-06-14T11:53:45.709Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T11:53:46.000Z'
+}
+
+2025-06-14T11:53:48.337Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '🌤️ 实时天气',
+  date: '2025-06-14T11:53:48.000Z'
+}
+
+2025-06-14T11:53:50.092Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '⚙️ 设置',
+  date: '2025-06-14T11:53:50.000Z'
+}
+
+2025-06-14T11:53:50.912Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '⭐ 收藏地点',
+  date: '2025-06-14T11:53:51.000Z'
+}
+
+2025-06-14T11:53:51.727Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '🖼️ 随机美图',
+  date: '2025-06-14T11:53:52.000Z'
+}
+
+2025-06-14T11:53:52.562Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '📅 三日预报',
+  date: '2025-06-14T11:53:52.000Z'
+}
+
+2025-06-14T11:53:53.392Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '🌤️ 实时天气',
+  date: '2025-06-14T11:53:53.000Z'
+}
+
+2025-06-14T11:53:54.001Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '💬 每日一言',
+  date: '2025-06-14T11:53:54.000Z'
+}
+
+2025-06-14T11:53:54.615Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '💬 每日一言',
+  date: '2025-06-14T11:53:54.000Z'
+}
+
+2025-06-14T11:53:55.226Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: 'ℹ️ 帮助信息',
+  date: '2025-06-14T11:53:55.000Z'
+}
+
+2025-06-14T11:53:55.845Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '⭐ 收藏地点',
+  date: '2025-06-14T11:53:55.000Z'
+}
+
+2025-06-14T12:02:46.945Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T12:02:46.000Z'
+}
+
+2025-06-14T12:02:50.142Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '🌤️ 实时天气',
+  date: '2025-06-14T12:02:50.000Z'
+}
+
+2025-06-14T12:02:53.673Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T12:02:54.000Z'
+}
+
+2025-06-14T12:03:21.067Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/setcaptchatimeout@congyus00_bot',
+  date: '2025-06-14T12:03:21.000Z'
+}
+
+2025-06-14T12:03:29.397Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/setcaptchatimeout',
+  date: '2025-06-14T12:03:29.000Z'
+}
+
+2025-06-14T12:03:39.627Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/verifymode@congyus00_bot',
+  date: '2025-06-14T12:03:39.000Z'
+}
+
+2025-06-14T12:03:41.210Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/verifymode@congyus00_bot',
+  date: '2025-06-14T12:03:41.000Z'
+}
+
+2025-06-14T12:03:46.161Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/verifymode',
+  date: '2025-06-14T12:03:46.000Z'
+}
+
+2025-06-14T12:03:52.237Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/ban@congyus00_bot',
+  date: '2025-06-14T12:03:52.000Z'
+}
+
+2025-06-14T12:04:00.433Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: -1001716086834,
+  chatType: 'supergroup',
+  text: '/ban',
+  date: '2025-06-14T12:04:00.000Z'
+}
+
+2025-06-14T12:05:09.591Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '🤖 群组管理机器人帮助菜单\n' +
+    '\n' +
+    '👮 管理命令 (仅管理员可用):\n' +
+    '/kick 回复用户消息 原因 - 踢出用户\n' +
+    '  示例: /kick 发布广告\n' +
+    '/ban 回复用户消息 原因 - 永久封禁用户\n' +
+    '  示例: /ban 多次违规\n' +
+    '/mute 回复用户消息 时长(分钟) 原因 - 禁言用户\n' +
+    '  示例: /mute 60 发布无关内容\n' +
+    '/unmute 回复用户消息 - 解除禁言\n' +
+    '/warn 回复用户消息 原因 - 警告用户\n' +
+    '/verifymode [captcha|admin|none] - 设置新成员验证模式\n' +
+    '  示例: /verifymode captcha\n' +
+    '\n' +
+    '⚙️ 群组设置命令 (仅管理员可用):\n' +
+    '/setwelcome [消息] - 设置欢迎消息\n' +
+    '  示例: /setwelcome 欢迎 {name} 加入群组！\n' +
+    '/setrules [规则] - 设置群规\n' +
+    '  示例: /setrules 1.禁止广告 2.保持友好\n' +
+    '/setcaptchatimeout 分钟 - 设置验证超时时间\n' +
+    '  示例: /setcaptchatimeout 3\n' +
+    '\n' +
+    '👤 用户命令 (所有成员可用):\n' +
+    '/rules - 查看群组规则\n' +
+    '/report 回复用户消息 原因 - 举报违规用户\n' +
+    '/mywarns - 查看我的警告记录\n' +
+    '\n' +
+    'ℹ️ 系统信息:\n' +
+    '当前验证模式: captcha\n' +
+    '验证超时时间: 5分钟',
+  date: '2025-06-14T12:05:09.000Z'
+}
+
+2025-06-14T12:05:22.808Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/verifymode',
+  date: '2025-06-14T12:05:23.000Z'
+}
+
+2025-06-14T12:05:24.449Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/warn',
+  date: '2025-06-14T12:05:24.000Z'
+}
+
+2025-06-14T12:05:25.815Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/unmute',
+  date: '2025-06-14T12:05:26.000Z'
+}
+
+2025-06-14T12:09:40.621Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/start',
+  date: '2025-06-14T12:09:39.000Z'
+}
+
+2025-06-14T12:09:43.447Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T12:09:43.000Z'
+}
+
+2025-06-14T12:09:48.532Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/weather',
+  date: '2025-06-14T12:09:48.000Z'
+}
+
+2025-06-14T12:10:08.346Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/weather 北京',
+  date: '2025-06-14T12:10:08.000Z'
+}
+
+2025-06-14T12:16:46.434Z - 用户消息
+{
+  userId: 6208973523,
+  username: 'congyu_Murasame',
+  chatId: 6208973523,
+  chatType: 'private',
+  text: '/help',
+  date: '2025-06-14T12:16:46.000Z'
+}
+

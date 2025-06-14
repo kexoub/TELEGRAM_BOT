@@ -1,0 +1,85 @@
+2025-06-14T11:03:15.553Z - 高级群组管理机器人已启动
+
+2025-06-14T11:05:38.728Z - 高级群组管理机器人已启动
+
+2025-06-14T11:05:40.264Z - 管理操作
+{
+  adminId: 'system',
+  action: 'new_member',
+  targetUserId: 7813629915,
+  groupId: -1001716086834,
+  details: { name: '@congyus00_bot' }
+}
+
+2025-06-14T11:06:30.883Z - 管理操作
+{
+  adminId: 6208973523,
+  action: 'approve',
+  targetUserId: 7813629915,
+  groupId: -1001716086834,
+  details: undefined
+}
+
+2025-06-14T11:16:04.658Z - 人机验证群组管理系统已启动
+
+2025-06-14T11:16:54.586Z - 人机验证群组管理系统已启动
+
+2025-06-14T11:27:53.741Z - 人机验证群组管理系统已启动
+
+2025-06-14T11:29:11.165Z - 人机验证群组管理系统已启动
+
+2025-06-14T11:37:04.491Z - 人机验证群组管理系统已启动
+
+2025-06-14T11:46:58.294Z - 管理操作
+{
+  adminId: 'system',
+  action: 'new_member',
+  targetUserId: 5990464009,
+  groupId: -1001716086834,
+  details: { name: '@Catassistedrobot' }
+}
+
+2025-06-14T11:49:10.162Z - 管理操作
+{
+  adminId: 'system',
+  action: 'member_left',
+  targetUserId: 5990464009,
+  groupId: -1001716086834,
+  details: { name: '@Catassistedrobot' }
+}
+
+2025-06-14T11:53:11.676Z - 管理操作
+{
+  adminId: 'system',
+  action: 'new_member',
+  targetUserId: 5990464009,
+  groupId: -1001716086834,
+  details: { name: '@Catassistedrobot' }
+}
+
+2025-06-14T11:53:24.497Z - 管理操作
+{
+  adminId: 6208973523,
+  action: 'admin_reject',
+  targetUserId: 5990464009,
+  groupId: -1001716086834,
+  details: undefined
+}
+
+2025-06-14T11:53:25.758Z - 管理操作
+{
+  adminId: 'system',
+  action: 'member_left',
+  targetUserId: 5990464009,
+  groupId: -1001716086834,
+  details: { name: '@Catassistedrobot' }
+}
+
+2025-06-14T12:02:42.364Z - 多功能机器人已启动
+
+2025-06-14T12:09:34.836Z - 人机验证群组管理系统已启动
+
+2025-06-14T12:10:36.520Z - 人机验证群组管理系统已启动
+
+2025-06-14T12:16:42.792Z - 人机验证群组管理系统已启动
+
